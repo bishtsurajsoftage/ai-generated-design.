@@ -8,3 +8,6 @@ and sometimes artifical intelligence to produce images, animations, or even musi
 
 **2. Randomness and Variation:**
      Many generative art systems incorporate elements of randomness or variation, introducting unpredictability into the artistic process.
+
+**3. Procedural Generation:**
+     Procedural generation involves creating art through a series of defined steps or procedures.
